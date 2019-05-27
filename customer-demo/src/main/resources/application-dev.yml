@@ -1,0 +1,15 @@
+logging:
+  level:
+    root: debug
+    org:
+      springframework:
+        web: debug
+feign:
+  httpclient:
+    connection-timeout: 3000
+
+#product service address
+gl:
+  service:
+    into:
+      url: 10.190.1.97:8091/product-service

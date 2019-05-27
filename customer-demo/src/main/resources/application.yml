@@ -1,0 +1,9 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /customer-service
+spring:
+  application:
+    name: customer-service
+  profiles:
+    active: dev
