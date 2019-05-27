@@ -1,2 +1,2 @@
 # mature-demo1
-Spring boot+feign
+基于Spring boot+feign架构
