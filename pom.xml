@@ -26,6 +26,7 @@
     <modules>
         <module>customer-demo</module>
         <module>product-demo</module>
+        <module>common-modul</module>
     </modules>
 
     <!-- 项目公共第三方依赖 -->

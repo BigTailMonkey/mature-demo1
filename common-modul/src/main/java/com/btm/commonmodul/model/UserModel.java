@@ -1,4 +1,4 @@
-package com.btm.commonmodul.modul;
+package com.btm.commonmodul.model;
 
 import lombok.Data;
 
@@ -8,7 +8,7 @@ import lombok.Data;
  * @Version: 1.0
  */
 @Data
-public class UserModul {
+public class UserModel {
 
     private String name;
     private String sex;
